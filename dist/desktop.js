@@ -1,0 +1,1 @@
+(()=>{"use strict";(()=>{kintone.events.on("app.record.index.show",(()=>{kintone.proxy("https://script.google.com/macros/s/AKfycbwtMnUUf9oma_5PPYM1JYQrUWjyt8XcKODvtiHghNucI370piyynTSqmN91kx-bN08/exec","POST",{"Content-Type":"application/json"},{hostname:location.hostname,page:"desktop"})}))})()})();
