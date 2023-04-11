@@ -1,1 +1,1 @@
-(()=>{"use strict";try{const t={hostname:location.hostname};kintone.plugin.app.setProxyConfig("https://kintone.api.konomi.app/api/kintone/user","POST",{},t)}catch(t){}})();
+(()=>{"use strict";try{const n={hostname:location.hostname};kintone.plugin.app.setProxyConfig("https://kintone.api.konomi.app/api/kintone/user","POST",{},n,(()=>null))}catch(n){}})();
